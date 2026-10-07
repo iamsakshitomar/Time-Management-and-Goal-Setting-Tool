@@ -51,3 +51,5 @@ A file named `time_management.db` is created automatically in the project direct
 - Sakshi — 25SCSE1010209
 - Aanchal Sinha — 25SCSE1010918
 - Shruti Shree — 25SCSE1010919
+- Palak Mishra — 25SCSE1010813
+
